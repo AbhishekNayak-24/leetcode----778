@@ -1,6 +1,6 @@
 # leetcode----778
 Swim in Rising Water
-//code in java
+//code in C++
 //Greedy & Union Find
 class UnionFind {    
     vector<int> root, rank;
